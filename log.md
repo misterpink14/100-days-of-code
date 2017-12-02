@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+
+### Day 0: December 1, 2017
+
+**Today's Progress**
+
+Got back into dev auto config project.
++ Scrapped plan to convert it to go
++ Created "templates"
++ Fixed neovim and homebrew install/update
+
+**Thoughts:** 
+
+I'm spending too much time trying to plan ahead and design. I just need to get it done and refactor.
+
+**Links to work:** 
+
+[Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
+
+
+------------------------
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
