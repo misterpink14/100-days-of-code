@@ -56,4 +56,21 @@ Think more, hack less
 
 **Links to work:** 
 
-[Dev Auto Config](https://github.com/misterpink14/dev_auto-config
+[Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
+
+
+### Day 3: December 3, 2017
+
+**Today's Progress**
+
+Added ability to install and setup iTerm2. Removed neovim install from basic dependencies. Added several other dependencies. Cleaned up a good amount. Plan on working on this as needed from here on out.
+
+**Thoughts:** 
+
+I'm really happy that this project is where its at now. I'm confident that and future additions will be fairly simple to add from here.
+
+**Links to work:** 
+
+[Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
+
+
