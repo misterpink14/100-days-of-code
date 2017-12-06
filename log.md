@@ -59,7 +59,7 @@ Think more, hack less
 [Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
 
 
-### Day 3: December 3, 2017
+### Day 3: December 4, 2017
 
 **Today's Progress**
 
@@ -72,5 +72,21 @@ I'm really happy that this project is where its at now. I'm confident that and f
 **Links to work:** 
 
 [Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
+
+
+### Day 4: December 5, 2017
+
+**Today's Progress**
+
+I started playing around with clojure. Created a pretty basic hello world app
+
+**Thoughts:** 
+
+Clojure feels familiar, kinda like erlang. I'm excited to start a project in it!
+
+**Links to work:** 
+
+[learning](https://github.com/misterpink14/learning/tree/clojure/brave_true)
+
 
 
