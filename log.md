@@ -89,4 +89,94 @@ Clojure feels familiar, kinda like erlang. I'm excited to start a project in it!
 [learning](https://github.com/misterpink14/learning/tree/clojure/brave_true)
 
 
+### Day 5: December 6, 2017
+
+**Today's Progress**
+
+Played around with clojure a bit more. Build a really simple web app using compojure.
+
+**Thoughts:** 
+
+I really need to take a step back and dive into the language a bit more.
+
+**Links to work:** 
+
+[learning](https://github.com/misterpink14/learning/tree/clojure/brave_true)
+
+
+### Day 6: December 7, 2017
+
+**Today's Progress**
+
+Started a "playground" in my learning repo. Still trying to pick up Clojure
+
+**Thoughts:** 
+
+This is going to take more time than I had hoped to get started, may put this off and dabble in it here and there while I move on to other things.
+
+**Links to work:** 
+
+[clojure](https://github.com/misterpink14/learning/tree/clojure/brave_true)
+
+
+### Day 7: December 8, 2017
+
+**Today's Progress**
+
+Went through the 'Getting Started' part of Angular.
+
+**Thoughts:** 
+
+I'm hopeful that Angular will be an upgrade over AngularJS.
+
+**Links to work:** 
+
+Nothing to see here
+
+
+### Day 8: December 9, 2017
+
+**Today's Progress**
+
+Started the 'Tour of Heroes' Angular tutorial, finished 'The Application Shell'.
+
+**Thoughts:** 
+
+I have a really cool opportunity for a Holiday work project, migrating AngularJS internal libraries to Angular. I need to get myself ramped up though! 
+
+**Links to work:** 
+
+[Tour of Heroes](https://github.com/misterpink14/learning/tree/ts/angular)
+
+
+### Day 9: December 10, 2017
+
+**Today's Progress**
+
+Worked through 'The Hero Editor', 'Displaying a List', 'Master/Detail Components', and 'Services' in the 'Tour of Heroes'. Also, decided to finally start my blog!
+
+**Thoughts:** 
+
+Angular is much nicer than AngularJS.
+
+**Links to work:** 
+
+[Tour of Heroes](https://github.com/misterpink14/learning/tree/ts/angular)
+[blog](http://benthompson.me/blog/)
+
+
+### Day 10: December 11, 2017
+
+**Today's Progress**
+
+Worked through 'Routing' module of the Tour of Heroes. Also I posted on my blog about netrw Basics.
+
+**Thoughts:** 
+
+I could be much more efficient with vim. These blog posts will really help me to learn more about vim.
+
+**Links to work:** 
+
+[Tour of Heroes](https://github.com/misterpink14/learning/tree/ts/angular)
+[blog](http://benthompson.me/blog/vim/netrw-basics/)
 
