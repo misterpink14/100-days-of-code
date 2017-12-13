@@ -180,3 +180,19 @@ I could be much more efficient with vim. These blog posts will really help me to
 [Tour of Heroes](https://github.com/misterpink14/learning/tree/ts/angular)
 [blog](http://benthompson.me/blog/vim/netrw-basics/)
 
+
+### Day 11: December 12, 2017
+
+**Today's Progress**
+
+Completed the Tour of Heroes and created hello-world for ClojureScript!
+
+**Thoughts:** 
+
+I really like the idea of Clojure and Clojurescript
+
+**Links to work:** 
+
+[Tour of Heroes](https://github.com/misterpink14/learning/tree/ts/angular)
+[hello-world](https://github.com/misterpink14/learning/tree/clojurescript/vanilla)
+
