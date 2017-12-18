@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 0: December 1, 2017
+### Day 1: December 1, 2017
 
 **Today's Progress**
 
@@ -19,7 +19,7 @@ I'm spending too much time trying to plan ahead and design. I just need to get i
 [Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
 
 
-### Day 1: December 2, 2017
+### Day 2: December 2, 2017
 
 **Today's Progress**
 
@@ -37,7 +37,7 @@ Too late == less productive.
 [Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
 
 
-### Day 2: December 3, 2017
+### Day 3: December 3, 2017
 
 **Today's Progress**
 
@@ -59,7 +59,7 @@ Think more, hack less
 [Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
 
 
-### Day 3: December 4, 2017
+### Day 4: December 4, 2017
 
 **Today's Progress**
 
@@ -74,7 +74,7 @@ I'm really happy that this project is where its at now. I'm confident that and f
 [Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
 
 
-### Day 4: December 5, 2017
+### Day 5: December 5, 2017
 
 **Today's Progress**
 
@@ -89,7 +89,7 @@ Clojure feels familiar, kinda like erlang. I'm excited to start a project in it!
 [learning](https://github.com/misterpink14/learning/tree/clojure/brave_true)
 
 
-### Day 5: December 6, 2017
+### Day 6: December 6, 2017
 
 **Today's Progress**
 
@@ -104,7 +104,7 @@ I really need to take a step back and dive into the language a bit more.
 [learning](https://github.com/misterpink14/learning/tree/clojure/brave_true)
 
 
-### Day 6: December 7, 2017
+### Day 7: December 7, 2017
 
 **Today's Progress**
 
@@ -119,7 +119,7 @@ This is going to take more time than I had hoped to get started, may put this of
 [clojure](https://github.com/misterpink14/learning/tree/clojure/brave_true)
 
 
-### Day 7: December 8, 2017
+### Day 8: December 8, 2017
 
 **Today's Progress**
 
@@ -134,7 +134,7 @@ I'm hopeful that Angular will be an upgrade over AngularJS.
 Nothing to see here
 
 
-### Day 8: December 9, 2017
+### Day 9: December 9, 2017
 
 **Today's Progress**
 
@@ -149,7 +149,7 @@ I have a really cool opportunity for a Holiday work project, migrating AngularJS
 [Tour of Heroes](https://github.com/misterpink14/learning/tree/ts/angular)
 
 
-### Day 9: December 10, 2017
+### Day l0: December 10, 2017
 
 **Today's Progress**
 
@@ -165,7 +165,7 @@ Angular is much nicer than AngularJS.
 [blog](http://benthompson.me/blog/)
 
 
-### Day 10: December 11, 2017
+### Day 11: December 11, 2017
 
 **Today's Progress**
 
@@ -181,7 +181,7 @@ I could be much more efficient with vim. These blog posts will really help me to
 [blog](http://benthompson.me/blog/vim/netrw-basics/)
 
 
-### Day 11: December 12, 2017
+### Day 12: December 12, 2017
 
 **Today's Progress**
 
@@ -195,4 +195,50 @@ I really like the idea of Clojure and Clojurescript
 
 [Tour of Heroes](https://github.com/misterpink14/learning/tree/ts/angular)
 [hello-world](https://github.com/misterpink14/learning/tree/clojurescript/vanilla)
+
+
+### Day 13: December 14, 2017
+
+**Today's Progress**
+
+Started backend for alarm\_clock\_service
+
+**Thoughts:** 
+
+Excited to get into golang again!
+
+**Links to work:** 
+
+[alarm\_clock\_service](https://github.com/misterpink14/alarm-clock-service)
+
+
+### Day 14 / 15: December 15, 2017 / December 16, 2017 
+
+**Today's Progress**
+
+Refactored dev\_auto\_config. Trying to turn it into an actual consumable tool for developers
+
+**Thoughts:** 
+
+It would be really cool to have an open source project that people could actually use.
+
+**Links to work:** 
+
+[Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
+
+
+### Day 16: December 18, 2017 
+
+**Today's Progress**
+
+Refactored dev\_auto\_config. Trying to turn it into an actual consumable tool for developers
+
+**Thoughts:** 
+
+It would be really cool to have an open source project that people could actually use.
+
+**Links to work:** 
+
+[Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
+
 
