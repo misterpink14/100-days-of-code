@@ -242,3 +242,18 @@ It would be really cool to have an open source project that people could actuall
 [Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
 
 
+### Day 17: December 19, 2017 
+
+**Today's Progress**
+
+Refactored templates in dev\_auto\_config. Trying to be more angostic in regards to templates.
+
+**Thoughts:** 
+
+It would be really cool to have an open source project that people could actually use.
+
+**Links to work:** 
+
+[Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
+
+
