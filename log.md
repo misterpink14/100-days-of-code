@@ -257,3 +257,18 @@ It would be really cool to have an open source project that people could actuall
 [Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
 
 
+### Day 18: December 20, 2017 
+
+**Today's Progress**
+
+Refactored dependencies in dev\_auto\_config. Cleanup and reorganization.
+
+**Thoughts:** 
+
+Too late to think
+
+**Links to work:** 
+
+[Dev Auto Config](https://github.com/misterpink14/dev_auto-config)
+
+
